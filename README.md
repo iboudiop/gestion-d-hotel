@@ -13,4 +13,3 @@ Ce projet montre un exemple d'application web JEE qui permet de gérer des compt
 
 video du projet : https://www.youtube.com/watch?v=u2z-oTMAVKY
 Salut mes amis
-Cest traore Ibrahima
